@@ -1,0 +1,11 @@
+main:
+    "Hello!"
+    "This is a template game as empty as possible, ready to edit your game. To start editing, open the file <blockquote>public/data/main.rpy</blockquote>"
+    "In `index.ts` you can edit the path of various config files and enable or disable debug menu."
+    "The debug menu contains many useful tools to see what's going on with your game or edit some values on the fly. Production builds of the game will automatically disable debug, so you can keep the debug option on without worries."
+    "There is a <a href='https:\/\/docs.get-narrat.com\/guides\/customising-your-narrat-game' target='_blank'>Customising your narrat game</a> page available in the documentation"
+    "You can look at the <a href=\"https:\/\/github.com\/nialna\/narrat-demo\" target=\"_blank\">Demo repo</a> for a demo game"
+    "A good tip to see usage example of most features and the latest config format is to look at the <a href='https:\/\/github.com\/liana-pigeot\/narrat\/tree\/main\/public\/data' target='blank'>test game</a> used in the narrat repo for development. The <a href='https:\/\/github.com\/liana-pigeot\/narrat\/tree\/main\/public\/data\/example.rpy' target='blank'>example.rpy</a> file uses a lot of the engine's features."
+    "If you want to customise the look of your game, you can also edit main.css (see <a href='https:\/\/docs.get-narrat.com\/guides\/theming-the-game-and-ui' target='blank'>UI theming docs</a>)"
+    "You can also <a href=\"https:\/\/docs.get-narrat.com\/\" target=\"_blank\">the documentation</a> for more info."
+    "Finally, here\'s a list of <a href='https:\/\/docs.get-narrat.com\/guides\/useful-links' target='_blank'>Useful Links</a>"
